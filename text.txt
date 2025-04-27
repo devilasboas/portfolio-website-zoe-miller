@@ -1,45 +1,4 @@
-========== HEADER ========== 
-.logo
-Miller
 
-.nav-link
-Home
-Services
-Skills
-Works
-Resume
-Testimonials
-Contact
-
-.social-link
-https://x.com/
-https://dribbble.com/
-https://behance.com/
-
-
-========== HOME ==========
-.home-subtitle
-Hello, My Name is
-
-.home-title
-Zoé Miller
-
-.home-job
-Freelance Designer & Developer
-
-.home-data-no | .home-data-title
-12 +
-Years of Experience
-
-330
-Completed Projects
-
-.home-description
-I am from Paris, France. I have rich experience in web design and am skilled in WordPress. I love discussing what makes us unique.
-
-.button
-Download CV
-My Skills
 
 
 ========== SERVICES ==========
